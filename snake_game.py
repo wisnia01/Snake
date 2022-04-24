@@ -23,7 +23,7 @@ pygame.init()
 font = pygame.font.SysFont('arial',25)
 
 BLOCK_SIZE = 20
-SPEED = 20
+SPEED = 120
 BLACK = (0,0,0)
 RED = (255,0,0)
 BLUE1 = (0,0,255)
